@@ -1,13 +1,17 @@
-<a href="https://app.daily.dev/Dray"><img src="https://github.com/kaldray/kaldray/blob/main/devcard.svg" width="400" alt="Jkal's Dev Card"/></a>
+<div align="center">
+
+<a  href="https://app.daily.dev/Dray"><img src="https://github.com/kaldray/kaldray/blob/main/devcard.svg" width="400" alt="Jkal's Dev Card"/></a>
+
+</div>
 
 <h1 align="center">Salut 🤚🏾, je m'apelle Jordray</h1>
 <h3 align="center">Un développeur front-end.</h3>
 
-- 🌱 I’m currently learning **TypeSrcipt**
+- 🌱 Actuellement j'apprends **TypeSrcipt**
 
-- 👨‍💻 All of my projects are available at [https://jordraydev.alwaysdata.net/](https://jordraydev.alwaysdata.net/)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://jordraydev.alwaysdata.net/](https://jordraydev.alwaysdata.net/)
 
-- 📝 I regularly write articles on [daily.dev](daily.dev)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jkal" height="30" width="40" /></a>
+<a href="https://app.daily.dev/Dray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jkal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
