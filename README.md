@@ -9,7 +9,7 @@
 
 - 🌱 Actuellement j'apprends **TypeSrcipt**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://jordraydev.alwaysdata.net/](https://jordraydev.alwaysdata.net/)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://jordraydev.netlify.app/](https://jordraydev.netlify.app/)
 
 
 
