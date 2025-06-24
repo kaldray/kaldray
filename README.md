@@ -5,11 +5,10 @@
 </div>
 
 <h1 align="center">Salut 🤚🏾, je m'apelle Jordray</h1>
-<h3 align="center">Un développeur front-end.</h3>
+<h3 align="center">Un développeur full-stack.</h3>
 
-- 🌱 Actuellement j'apprends **TypeSrcipt**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://jordraydev.netlify.app/](https://jordraydev.netlify.app/)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://portf-flax.vercel.app](https://portf-flax.vercel.app)
 
 
 
