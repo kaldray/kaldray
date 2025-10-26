@@ -1,10 +1,4 @@
-<div align="center">
-
-<a  href="https://app.daily.dev/Dray"><img src="https://github.com/kaldray/kaldray/blob/main/devcard.svg" width="400" alt="Jkal's Dev Card"/></a>
-
-</div>
-
-<h1 align="center">Salut 🤚🏾, je m'apelle Jordray</h1>
+<h1 align="center">Salut 🤚🏾 !</h1>
 <h3 align="center">Un développeur full-stack.</h3>
 
 
